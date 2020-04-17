@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68816" started-at="2020-04-17T06:47:25Z" finished-at="2020-04-17T06:48:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68816" started-at="2020-04-17T06:47:25Z" finished-at="2020-04-17T06:48:33Z">
+      <class name="Testcase1">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:Testcase1@7193666c]" name="browserSetup" is-config="true" duration-ms="22261" started-at="2020-04-17T12:17:25Z" finished-at="2020-04-17T12:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="busBooking()[pri:0, instance:Testcase1@7193666c]" name="busBooking" duration-ms="45202" started-at="2020-04-17T12:17:47Z" finished-at="2020-04-17T12:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- busBooking -->
+        <test-method status="PASS" signature="driverTermination()[pri:0, instance:Testcase1@7193666c]" name="driverTermination" is-config="true" duration-ms="1308" started-at="2020-04-17T12:18:32Z" finished-at="2020-04-17T12:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverTermination -->
+      </class> <!-- Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
